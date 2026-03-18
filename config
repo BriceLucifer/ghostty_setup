@@ -53,8 +53,8 @@ link-url = true
 # === 快捷键 ===
 # 标签页
 keybind = cmd+t=new_tab
-keybind = cmd+shift+left=previous_tab
-keybind = cmd+shift+right=next_tab
+keybind = cmd+shift+h=previous_tab
+keybind = cmd+shift+l=next_tab
 keybind = cmd+w=close_surface
 
 # 分屏

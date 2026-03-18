@@ -69,16 +69,16 @@ A beautiful and efficient terminal configuration for Ghostty with Starship promp
 | Action | Keybinding |
 |--------|------------|
 | New Tab | `Cmd+T` |
-| Previous Tab | `Cmd+Shift+Left` |
-| Next Tab | `Cmd+Shift+Right` |
+| Previous Tab | `Cmd+Shift+H` |
+| Next Tab | `Cmd+Shift+L` |
 | Close Tab/Split | `Cmd+W` |
 | Vertical Split | `Cmd+D` |
 | Horizontal Split | `Cmd+Shift+D` |
-| Navigate Splits | `Alt + h/j/k/l` |
+| Navigate Splits | `Alt + H/J/K/L` |
 | Increase Font Size | `Cmd+Plus` |
 | Decrease Font Size | `Cmd+Minus` |
 | Reset Font Size | `Cmd+Zero` |
-| Toggle Quick Terminal | `Ctrl+\`` |
+| Toggle Quick Terminal | ``Ctrl+` `` |
 | Equalize Splits | `Cmd+Shift+E` |
 | Toggle Split Zoom | `Cmd+Shift+F` |
 | Reload Config | `Cmd+Shift+,` |
